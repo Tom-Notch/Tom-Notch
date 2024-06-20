@@ -1,4 +1,6 @@
-## Hi there 👋
+# Howdy 👋
+
+### Learn More About Me in [My Personal Website](https://tomnotch.com)
 
 <!--
 **Tom-Notch/Tom-Notch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
